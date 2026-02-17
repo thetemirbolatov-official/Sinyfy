@@ -4,12 +4,6 @@
 
 
 <p align="center">
-  <a href="#-библиотека-python">Библиотека</a> •
-  <a href="#-быстрый-старт">Быстрый старт</a> •
-  <a href="#-примеры-использования">Примеры</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/python-3.7+-brightgreen.svg" alt="Python">
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20macOS%20%7C%20linux-lightgrey" alt="Platform">
