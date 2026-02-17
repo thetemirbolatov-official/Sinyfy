@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Sinyfy"
+version = "1.0.0"
+description = "Sinyfy - Static Site Visual Cloner (Без Selenium)"
+readme = "README.md"
+authors = [
+    {name = "thetemirbolatov", email = "mirajestory@gmail.com"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Internet :: WWW/HTTP",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.7"
+dependencies = [
+    "requests>=2.25.0",
+    "beautifulsoup4>=4.9.0",
+    "Pillow>=8.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/thetemirbolatov-official/Sinyfy"
+Repository = "https://github.com/thetemirbolatov-official/Sinyfy"
+"Bug Tracker" = "https://github.com/thetemirbolatov-official/Sinyfy/issues"
+
+[project.scripts]
+Sinyfy = "Sinyfy:main"
+
+[tool.setuptools]
+py-modules = ["Sinyfy"]
+
+[tool.black]
+line-length = 100
+target-version = ["py37", "py38", "py39", "py310", "py311"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+ignore_missing_imports = true

@@ -1,0 +1,14 @@
+CHANGELOG.md
+MANIFEST.in
+README.md
+Sinyfy.py
+pyproject.toml
+requirements.txt
+setup.py
+Sinyfy.egg-info/PKG-INFO
+Sinyfy.egg-info/SOURCES.txt
+Sinyfy.egg-info/dependency_links.txt
+Sinyfy.egg-info/entry_points.txt
+Sinyfy.egg-info/not-zip-safe
+Sinyfy.egg-info/requires.txt
+Sinyfy.egg-info/top_level.txt
