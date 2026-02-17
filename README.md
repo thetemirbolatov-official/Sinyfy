@@ -2,9 +2,22 @@
 
 **Static Site Visual Cloner** - Инструмент для клонирования веб-сайтов в статическую версию без использования Selenium.
 
-[![PyPI version](https://img.shields.io/pypi/v/sinyfy.svg)](https://pypi.org/project/sinyfy/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/sinyfy.svg)](https://pypi.org/project/sinyfy/)
-[![License](https://img.shields.io/github/license/thetemirbolatov/sinyfy.svg)](https://github.com/thetemirbolatov/sinyfy/blob/main/LICENSE)
+
+<p align="center">
+  <a href="#-библиотека-python">Библиотека</a> •
+  <a href="#-быстрый-старт">Быстрый старт</a> •
+  <a href="#-примеры-использования">Примеры</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/python-3.7+-brightgreen.svg" alt="Python">
+  <img src="https://img.shields.io/badge/platform-windows%20%7C%20macOS%20%7C%20linux-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/status-stable-success.svg" alt="Status">
+</p>
+
+---
 
 ## 📋 Описание
 
