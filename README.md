@@ -5,7 +5,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/sinyfy.svg)](https://pypi.org/project/sinyfy/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/sinyfy.svg)](https://pypi.org/project/sinyfy/)
 [![License](https://img.shields.io/github/license/thetemirbolatov/sinyfy.svg)](https://github.com/thetemirbolatov/sinyfy/blob/main/LICENSE)
-[![Downloads](https://pepy.tech/badge/sinyfy)](https://pepy.tech/project/sinyfy)
 
 ## 📋 Описание
 
